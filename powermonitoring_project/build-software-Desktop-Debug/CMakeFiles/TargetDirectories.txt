@@ -1,0 +1,4 @@
+/home/yo/powermonitoring_project/build-software-Desktop-Debug/CMakeFiles/software.dir
+/home/yo/powermonitoring_project/build-software-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/yo/powermonitoring_project/build-software-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/yo/powermonitoring_project/build-software-Desktop-Debug/CMakeFiles/software_autogen.dir
